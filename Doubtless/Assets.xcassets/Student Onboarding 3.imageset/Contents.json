@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Man and Woman Collaborating for Business Strategy Through Video Call Flat 2D Illustration-HD-Photoroom.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
